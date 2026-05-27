@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TreasureHuntGame</name>
+    </assembly>
+    <members>
+        <member name="M:TreasureHuntGame.MainPage.SetupNewGameSession">
+            <summary>
+            Shuffle images and reset the board for a new game.
+            </summary>
+        </member>
+        <member name="M:TreasureHuntGame.MainPage.OnTileClicked(System.Object,System.EventArgs)">
+            <summary>
+            Flip tiles and check for a match when the user taps an image button.
+            </summary>
+        </member>
+        <member name="T:TreasureHuntGame.Resource">
+            <summary>
+            Android Resource Designer class.
+            Exposes the Android Resource designer assembly into the project Namespace.
+            </summary>
+        </member>
+    </members>
+</doc>

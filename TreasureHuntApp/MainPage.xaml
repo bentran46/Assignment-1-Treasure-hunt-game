@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TreasureHuntGame.MainPage"
+             Title="Treasure Hunt Game">
+
+    <Grid RowDefinitions="Auto, *, *, *"
+          ColumnDefinitions="*, *, *, *"
+          Padding="20"
+          RowSpacing="10"
+          ColumnSpacing="10">
+
+        <Label x:Name="_lblTitle"
+               Text="Treasure Hunt Game"
+               Grid.Row="0"
+               Grid.Column="0"
+               Grid.ColumnSpan="4"
+               FontSize="24"
+               FontAttributes="Bold"
+               HorizontalOptions="Center"
+               Margin="0,10,0,10"/>
+
+        <ImageButton x:Name="_imgTile1" Source="question_mark.jpg" Grid.Row="1" Grid.Column="0" Aspect="AspectFit" Clicked="OnTileClicked"/>
+        <ImageButton x:Name="_imgTile2" Source="question_mark.jpg" Grid.Row="1" Grid.Column="1" Aspect="AspectFit" Clicked="OnTileClicked"/>
+        <ImageButton x:Name="_imgTile3" Source="question_mark.jpg" Grid.Row="1" Grid.Column="2" Aspect="AspectFit" Clicked="OnTileClicked"/>
+        <ImageButton x:Name="_imgTile4" Source="question_mark.jpg" Grid.Row="1" Grid.Column="3" Aspect="AspectFit" Clicked="OnTileClicked"/>
+
+        <ImageButton x:Name="_imgTile5" Source="question_mark.jpg" Grid.Row="2" Grid.Column="0" Aspect="AspectFit" Clicked="OnTileClicked"/>
+        <ImageButton x:Name="_imgTile6" Source="question_mark.jpg" Grid.Row="2" Grid.Column="1" Aspect="AspectFit" Clicked="OnTileClicked"/>
+        <ImageButton x:Name="_imgTile7" Source="question_mark.jpg" Grid.Row="2" Grid.Column="2" Aspect="AspectFit" Clicked="OnTileClicked"/>
+        <ImageButton x:Name="_imgTile8" Source="question_mark.jpg" Grid.Row="2" Grid.Column="3" Aspect="AspectFit" Clicked="OnTileClicked"/>
+
+        <Image x:Name="_imgMatch1" Grid.Row="3" Grid.Column="0" Aspect="AspectFit" HeightRequest="80" IsVisible="False"/>
+        <Image x:Name="_imgMatch2" Grid.Row="3" Grid.Column="1" Aspect="AspectFit" HeightRequest="80" IsVisible="False"/>
+        <Image x:Name="_imgMatch3" Grid.Row="3" Grid.Column="2" Aspect="AspectFit" HeightRequest="80" IsVisible="False"/>
+        <Image x:Name="_imgMatch4" Grid.Row="3" Grid.Column="3" Aspect="AspectFit" HeightRequest="80" IsVisible="False"/>
+
+        <Image x:Name="_imgTreasure"
+               Source="smiley.jpg"
+               Grid.Row="1"
+               Grid.RowSpan="2"
+               Grid.Column="0"
+               Grid.ColumnSpan="4"
+               Aspect="AspectFit"
+               HeightRequest="180"
+               IsVisible="False"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"/>
+
+        <Button x:Name="_btnPlayAgain"
+                Text="Play Again"
+                Grid.Row="2"
+                Grid.Column="1"
+                Grid.ColumnSpan="2"
+                BackgroundColor="#4CAF50"
+                TextColor="White"
+                IsVisible="False"
+                Clicked="OnPlayAgainClicked"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"/>
+    </Grid>
+</ContentPage>
