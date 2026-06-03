@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TewYGN61rKU=",
+  "dgSpecHash": "WQeP5DKIHGw=",
   "success": true,
-  "projectFilePath": "/Users/apple/Documents/Assignment 1- Treasure Hunt Game/Assignment-1-Treasure-hunt-game/TreasureHuntApp/TreasureHuntApp.csproj",
+  "projectFilePath": "/Users/apple/RiderProjects/Assignment-1-Treasure-hunt-game/TreasureHuntApp.csproj",
   "expectedPackageFiles": [
     "/Users/apple/.nuget/packages/googlegson/2.13.1.1/googlegson.2.13.1.1.nupkg.sha512",
     "/Users/apple/.nuget/packages/microsoft.extensions.configuration/10.0.0/microsoft.extensions.configuration.10.0.0.nupkg.sha512",
@@ -123,9 +123,9 @@
       "code": "NU1900",
       "level": "Warning",
       "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/apple/.local/share/NuGet/http-cache' is denied.",
-      "projectPath": "/Users/apple/Documents/Assignment 1- Treasure Hunt Game/Assignment-1-Treasure-hunt-game/TreasureHuntApp/TreasureHuntApp.csproj",
+      "projectPath": "/Users/apple/RiderProjects/Assignment-1-Treasure-hunt-game/TreasureHuntApp.csproj",
       "warningLevel": 1,
-      "filePath": "/Users/apple/Documents/Assignment 1- Treasure Hunt Game/Assignment-1-Treasure-hunt-game/TreasureHuntApp/TreasureHuntApp.csproj",
+      "filePath": "/Users/apple/RiderProjects/Assignment-1-Treasure-hunt-game/TreasureHuntApp.csproj",
       "targetGraphs": []
     }
   ]

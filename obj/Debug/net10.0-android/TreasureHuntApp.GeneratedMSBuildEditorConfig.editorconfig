@@ -21,13 +21,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property.EntryPointFilePath = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TreasureHuntGame
-build_property.ProjectDir = /Users/apple/Documents/Assignment 1- Treasure Hunt Game/Assignment-1-Treasure-hunt-game/TreasureHuntApp/
+build_property.ProjectDir = /Users/apple/RiderProjects/Assignment-1-Treasure-hunt-game/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/apple/Documents/Assignment 1- Treasure Hunt Game/Assignment-1-Treasure-hunt-game/TreasureHuntApp/App.xaml]
+[/Users/apple/RiderProjects/Assignment-1-Treasure-hunt-game/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TreasureHuntGame.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
@@ -37,7 +37,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[/Users/apple/Documents/Assignment 1- Treasure Hunt Game/Assignment-1-Treasure-hunt-game/TreasureHuntApp/AppShell.xaml]
+[/Users/apple/RiderProjects/Assignment-1-Treasure-hunt-game/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TreasureHuntGame.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
@@ -47,7 +47,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[/Users/apple/Documents/Assignment 1- Treasure Hunt Game/Assignment-1-Treasure-hunt-game/TreasureHuntApp/MainPage.xaml]
+[/Users/apple/RiderProjects/Assignment-1-Treasure-hunt-game/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TreasureHuntGame.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
@@ -57,7 +57,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[/Users/apple/Documents/Assignment 1- Treasure Hunt Game/Assignment-1-Treasure-hunt-game/TreasureHuntApp/Resources/Styles/Colors.xaml]
+[/Users/apple/RiderProjects/Assignment-1-Treasure-hunt-game/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TreasureHuntGame.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
@@ -67,7 +67,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[/Users/apple/Documents/Assignment 1- Treasure Hunt Game/Assignment-1-Treasure-hunt-game/TreasureHuntApp/Resources/Styles/Styles.xaml]
+[/Users/apple/RiderProjects/Assignment-1-Treasure-hunt-game/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TreasureHuntGame.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml

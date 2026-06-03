@@ -10923,11 +10923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/apple/Documents/Assignment 1- Treasure Hunt Game/Assignment-1-Treasure-hunt-game/TreasureHuntApp/TreasureHuntApp.csproj",
+      "projectUniqueName": "/Users/apple/RiderProjects/Assignment-1-Treasure-hunt-game/TreasureHuntApp.csproj",
       "projectName": "TreasureHuntGame",
-      "projectPath": "/Users/apple/Documents/Assignment 1- Treasure Hunt Game/Assignment-1-Treasure-hunt-game/TreasureHuntApp/TreasureHuntApp.csproj",
+      "projectPath": "/Users/apple/RiderProjects/Assignment-1-Treasure-hunt-game/TreasureHuntApp.csproj",
       "packagesPath": "/Users/apple/.nuget/packages/",
-      "outputPath": "/Users/apple/Documents/Assignment 1- Treasure Hunt Game/Assignment-1-Treasure-hunt-game/TreasureHuntApp/obj/",
+      "outputPath": "/Users/apple/RiderProjects/Assignment-1-Treasure-hunt-game/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
